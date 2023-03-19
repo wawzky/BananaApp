@@ -1,0 +1,9 @@
+0 kardava
+1 kardava
+2 kardava
+0 lakatan
+1 lakatan
+2 lakatan
+0 tundan
+1 tundan
+2 tundan
